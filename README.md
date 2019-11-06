@@ -1,4 +1,4 @@
 # hello-world
-ola, sou o sergio.
+sou o sergio.
 
-just another repository
+apenas um outro repetorio.
